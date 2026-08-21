@@ -2,7 +2,7 @@
 
 <img src="Assets/images/Logo.png" alt="India Weather System Logo" width="450">
 
-# India Weather System
+# India's Weather System
 
 ### Open-Source AI-Powered Numerical Weather Prediction Platform for the Indian Subcontinent
 
